@@ -1,0 +1,23 @@
+{
+  "name": "js-modules",
+  "version": "0.0.1",
+  "description": "Javascript utilities for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacintogl82/js-modules.git"
+  },
+  "keywords": [
+    "counter",
+    "bootstrap4"
+  ],
+  "author": "Jacinto García López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacintogl82/js-modules/issues"
+  },
+  "homepage": "https://github.com/jacintogl82/js-modules#readme"
+}

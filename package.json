@@ -1,6 +1,6 @@
 {
   "name": "conoce-js-modules",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Javascript utilities for developers",
   "devDependencies": {
     "autoprefixer": "^6.4.0",
